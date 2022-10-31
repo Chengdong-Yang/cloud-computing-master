@@ -46,7 +46,8 @@ public class Main {
 	//dadjowrbdapkoiwrjqohiq
 	/** The cloudlet list. */
 	public static List<cloudlet3> cloudletList;
-
+	/****/
+	/*dajljepetrhwiuhr23i*/
 	/** The vmlist. */
 	public static List<vm3> vmlist;
 
